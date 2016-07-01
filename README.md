@@ -14,7 +14,6 @@ Learn essential skills that you'll need to become an Office.Js add-in Ninja. Fol
 8. [Showcase your skills -- deploy](./lesson-7)
  
 
-[Seek advise; yes, even a Ninja may need some help](./help.md)  
-
-[Feed your mind](./resources.md) 
+* [Seek advise; yes, even a Ninja may need some help](./help.md)  
+* [Feed your mind](./resources.md) 
 
