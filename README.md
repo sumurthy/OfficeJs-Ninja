@@ -11,7 +11,7 @@ Learn essential skills that you'll need to become an Office.Js add-in Ninja. Fol
 4. [Legendary abilities -- advanced stuff](./lesson-3)    
 6. [Disguise and stealth -- add-in commands](./lesson-4)    
 7. [Throwing Blades -- dialogs](./lesson-5)  
-8. [Know how to escape -- exception handling](./lesson-6)    
+8. [Know how to escape -- exception handling](./lesson-6)  
 9. [Showcase your skills -- deploy](./lesson-7)  
 
 * [Seek advise; yes, even a Ninja may need some help](./help.md)
