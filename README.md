@@ -12,3 +12,7 @@ Learn essential skills that you'll need to become an Office.Js add-in Ninja. Fol
 6. [Throwing Blades -- dialogs](./lesson-5)  
 7. [Know how to escape -- exception handling](./lesson-6)  
 8. [Showcase your skills -- deploy](./lesson-7)
+ 
+
+# 
+
