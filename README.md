@@ -15,5 +15,6 @@ Learn essential skills that you'll need to become an Office.Js add-in Ninja. Fol
  
 
 [Seek advise; yes, even a Ninja may need some help](./help.md)  
+
 [Feed your mind](./resources.md) 
 
