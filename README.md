@@ -6,13 +6,13 @@ Learn essential skills that you'll need to become an Office.Js add-in Ninja. Fol
 ## Ninjutsu 
 
 1. [Geography -- know the terrain](./lesson-0)  
-1. [Weapons and equipment -- setup](./lesson-1)  
-1. [Ninja Sword -- the basics](./lesson-2)  
-1. [Legendary abilities -- advanced stuff](./lesson-3)  
-1. [Disguise and stealth -- add-in commands](./lesson-4)  
-1. [Throwing Blades -- dialogs](./lesson-5)  
-1. [Know how to escape -- exception handling](./lesson-6)  
-1. [Showcase your skills -- deploy](./lesson-7)  
+2. [Weapons and equipment -- setup](./lesson-1)  
+3. [Ninja Sword -- the basics](./lesson-2)  
+4. [Legendary abilities -- advanced stuff](./lesson-3)    
+6. [Disguise and stealth -- add-in commands](./lesson-4)    
+7. [Throwing Blades -- dialogs](./lesson-5)  
+8. [Know how to escape -- exception handling](./lesson-6)    
+9. [Showcase your skills -- deploy](./lesson-7)  
 
 * [Seek advise; yes, even a Ninja may need some help](./help.md)
 * [Feed your mind](./resources.md)
