@@ -4,7 +4,7 @@ Learn essential skills that you'll need to become an Office.Js add-in Ninja. Fol
 
 ## Ninjutsu techniques
 
-1. [Geography and weapons -- know the terrain and setup](./lesson-1)  
+1. [Geography and weapons -- know the terrain and tools](./lesson-1)  
 2. [Ninja sword -- the basics](./lesson-2)  
 3. [Legendary skills -- advanced stuff](./lesson-3)  
 4. [Disguise and stealth -- add-in commands](./lesson-4)  
@@ -14,6 +14,6 @@ Learn essential skills that you'll need to become an Office.Js add-in Ninja. Fol
  
 More.. 
 
-* [Seek advise; yes, even a Ninja may need some help](./help.md)  
+* [Seek advise; yes, even a Ninja may need help](./help.md)  
 * [Feed your mind](./resources.md) 
 
