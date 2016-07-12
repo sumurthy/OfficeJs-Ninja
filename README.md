@@ -10,7 +10,7 @@ Learn essential skills that you'll need to become an Office.Js add-in Ninja. Fol
 4. [Disguise and stealth -- add-in commands](./lesson-4)  
 5. [Throwing blades -- dialogs](./lesson-5)  
 6. [Go on a mission -- deploy](./lesson-7)
- 
+
 More.. 
 
 * [Seek advise; yes, even a Ninja may need help](./help.md)  

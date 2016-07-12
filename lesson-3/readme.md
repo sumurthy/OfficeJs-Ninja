@@ -1,4 +1,8 @@
 # Advanced topics
 * Context re-use
 * Eventing
-* Recursive loading 
+* Binding, settings, etc.
+* Recursive loading
+* Exception handling 
+* 1.0 vs 1.x APIs 
+* Logging, debugging 
